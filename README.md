@@ -2,11 +2,26 @@
 
 👋 Hi, I am Jesumbo Joseph Oludipe
 
-I am a passionate Data Analyst with a strong background in SQL, Tableau, Python, and Spreadsheets. I have created relevant projects using these tools, and I am continually working to improve my skills. I am eager to apply my knowledge and experience in an entry-level Data Analyst role (or similar roles), where I can make a meaningful impact and continue to learn and grow in the field.
+👋 Hello World! I'm Jesumbo Joseph Oludipe, a passionate Data Analyst based in Kent, UK.
 
-- 👀 I’m interested in data analysis, programming, and creating business solutions
-- 🌱 I’m currently learning  Excel, SQL, R and Tableau
-- 💞️ I’m looking to collaborate on data anlysis projects
+🔍 **Data Detective:** Specializing in uncovering hidden insights within vast datasets, I've analyzed over variuos datasets to pinpoint lucrative opportunities for businesses.
+
+🚀 **Project Maven:** Adept in unveiling investment opportunities, conducting in-depth analyses using Excel, Power BI, and SQL. My strategic advice on targeting advertisements and campaigns has proven invaluable.
+
+🛠️ **Tech Toolbox:** Proficient in Python programming, expert in SQL (Microsoft SQL Server, Azure Databricks, BigQuery), and skilled in data visualization with Tableau and Power BI. I'm your go-to person for advanced Excel wizardry, automation, and creating interactive dashboards.
+
+🔧 **Problem Solver:** With strong critical-thinking abilities, I've successfully tackled challenges in data cleaning, improving data quality, and enhancing operational efficiency through automated Power BI dashboards.
+
+🌐 **Education Explorer:** Holder of a Master's in Water, Waste, and Environmental Engineering from the University of Greenwich, UK, and a Master's in Soil & Water Engineering from FUTA, Nigeria.
+
+🤝 **Collaboration Champion:** Known for excellent communication and teamwork skills, I've effectively managed stakeholder relationships and led cross-functional teams to successful outcomes.
+
+🌍 **Beyond the Data:** When not immersed in analytics, you'll find me exploring interests in real estate, reading, and constantly learning new skills.
+
+📚 **Languages:** Fluent in English, intermediate in French, and a native speaker of Yoruba.
+
+Let's connect and code the future together! 🚀
+
 
 ## How to reach me 📫
 
