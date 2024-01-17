@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hello World! I'm Jesumbo Joseph Oludipe, a passionate Data Analyst based in Kent, UK.
+👋 Hello World! I'm Jesumbo Joseph Oludipe, a passionate Data Analyst and Business Intelligence Developer.
 
 🔍 **Data Detective:** Specializing in uncovering hidden insights within vast datasets, I've analyzed over variuos datasets to pinpoint lucrative opportunities for businesses.
 
