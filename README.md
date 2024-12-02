@@ -19,7 +19,8 @@
 📚 **Languages:** Fluent in English, intermediate in French, and a native speaker of Yoruba.
 
 Let's connect and code the future together! 🚀
-
+## View Portfolio Projects 📫
+[Portfolio Projects]!(https://github.com/JesumboOludipe/PortfolioProjects)
 
 ## How to reach me 📫
 
