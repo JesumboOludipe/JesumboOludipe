@@ -20,7 +20,7 @@
 
 Let's connect and code the future together! 🚀
 ## View Portfolio Projects 📫
-[Portfolio Projects]!(https://github.com/JesumboOludipe/PortfolioProjects)
+[Portfolio Projects](https://github.com/JesumboOludipe/PortfolioProjects)
 
 ## How to reach me 📫
 
