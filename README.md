@@ -24,7 +24,7 @@ Let's connect and code the future together! 🚀
 
 ## How to reach me 📫
 
-If you have any questions or would like to collaborate on a project, please feel free to contact me at oludipejesumboj@gmail.com, or visit my LinkedIn profile @Jesumbo Oludipe
+If you have any questions or would like to collaborate on a project, please feel free to contact me at oludipejesumboj@gmail.com, or visit my LinkedIn profile @[Jesumbo Oludipe](https://www.linkedin.com/in/jesumbooludipe/)
 
 
 <!---
