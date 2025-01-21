@@ -18,9 +18,9 @@ Welcome to my GitHub profile! I am a passionate **Data Analyst** and **Business 
 ## 🚀 **Certifications & Skills**
 
 - **Certifications:**  
-  - Azure Databricks and Spark for Data Engineers  
-  - Microsoft Certified: Power BI Data Analyst Associate  
-  - Azure Data Factory for Data Engineers  
+  - [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/JesumboOludipe-1563/243DA87BBF0D7C68?sharingId=D43BB297FE7C2808)
+  - [Azure Databricks and Spark for Data Engineers](https://drive.google.com/file/d/1_K5pW3x2k2cDfV-rX4s0p_N8SrAOaTiO/view?usp=sharing)
+  - [Azure Data Factory for Data Engineers](https://drive.google.com/file/d/1CPSHX1Ew8k9Z7q8FQNV5sLYucUzYeoQG/view?usp=sharing)
 
 - **Technical Skills:**
   - **Programming:** SQL, Python
