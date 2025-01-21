@@ -1,33 +1,76 @@
-# About Me
+# 👋 Hi, I'm Jesumbo Oludipe
 
-👋 Hello World! I'm Jesumbo Joseph Oludipe, a passionate Data Analyst and Business Intelligence Developer.
+Welcome to my GitHub profile! I am a passionate **Data Analyst** and **Business Intelligence Developer** with over 5 years of professional experience. My journey combines analytical expertise, engineering ingenuity, and a drive to leverage data for impactful business decisions. Here's a little more about me:
 
-🔍 **Data Detective:** Specializing in uncovering hidden insights within vast datasets, I've analyzed over variuos datasets to pinpoint lucrative opportunities for businesses.
+---
 
-🚀 **Project Maven:** Adept in unveiling investment opportunities, conducting in-depth analyses using Excel, Power BI, and SQL. My strategic advice on targeting advertisements and campaigns has proven invaluable.
+## 🌟 **About Me**
 
-🛠️ **Tech Toolbox:** Proficient in Python programming, expert in SQL (Microsoft SQL Server, Azure Databricks, BigQuery), and skilled in data visualization with Tableau and Power BI. I'm your go-to person for advanced Excel wizardry, automation, and creating interactive dashboards.
+- 🌍 **Location:** United Kingdom 🇬🇧
+- 🎓 **Educational Background:**
+  - **B.Sc.** in Agricultural Engineering  
+  - **Master's Degree** in Environmental Engineering  
+- 📈 **Current Role:** Data Analyst at **Thames Water, UK**  
+  - Leveraging tools like Azure Data Factory, Databricks, Power BI, SQL, and Python to deliver actionable insights and drive operational excellence.  
 
-🔧 **Problem Solver:** With strong critical-thinking abilities, I've successfully tackled challenges in data cleaning, improving data quality, and enhancing operational efficiency through automated Power BI dashboards.
+---
 
-🌐 **Education Explorer:** Holder of a Master's in Water, Waste, and Environmental Engineering from the University of Greenwich, UK, and a Master's in Soil & Water Engineering from FUTA, Nigeria.
+## 🚀 **Certifications & Skills**
 
-🤝 **Collaboration Champion:** Known for excellent communication and teamwork skills, I've effectively managed stakeholder relationships and led cross-functional teams to successful outcomes.
+- **Certifications:**  
+  - Azure Databricks and Spark for Data Engineers  
+  - Microsoft Certified: Power BI Data Analyst Associate  
+  - Azure Data Factory for Data Engineers  
 
-🌍 **Beyond the Data:** When not immersed in analytics, you'll find me exploring interests in real estate, reading, and constantly learning new skills.
+- **Technical Skills:**
+  - **Programming:** SQL, Python
+  - **Data Visualization:** Power BI, Excel, Tableau, Salesforce
+  - **Data Engineering:** Azure Data Factory, Azure Databricks, Spark
+  - **Workflow Optimization:** Git (Advanced Workflows), Azure DevOps (CI/CD), Power Automate
 
-📚 **Languages:** Fluent in English, intermediate in French, and a native speaker of Yoruba.
+---
 
-Let's connect and code the future together! 🚀
-## View Portfolio Projects 📫
-[Portfolio Projects](https://github.com/JesumboOludipe/PortfolioProjects)
+## 💼 **Key Highlights of My Work**
 
-## How to reach me 📫
+### 🎯 **Data Analytics and Reporting:**
+- Designed and delivered advanced dashboards and reports for large datasets, uncovering insights that inform strategic decisions across environmental, customer, and operational metrics. 
 
-If you have any questions or would like to collaborate on a project, please feel free to contact me at oludipejesumboj@gmail.com, or visit my LinkedIn profile @[Jesumbo Oludipe](https://www.linkedin.com/in/jesumbooludipe/)
+### 🔄 **Pipeline Development:**
+- Built scalable data pipelines and workflows in Azure, enhancing data transformation and integration across internal and external sources.  
 
+### 🤝 **Collaboration & Leadership:**
+- A trusted liaison between technical and non-technical teams, translating complex data into actionable strategies.  
 
-<!---
-JesumboOludipe/JesumboOludipe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📚 **Speaking Engagements**
+
+- **London College of Contemporary Arts (LCCA), UK:** Presented a workshop titled *"From Data to Decisions: Real-World Applications of Data Analysis in Business Success,"* featuring hands-on case studies in customer operations, waste management, and business strategy.
+
+- **University of Greenwich, UK:** Delivered an insightful session on *"Data Analysis in Water, Waste, and Environmental Engineering,"* highlighting the integration of data analytics into environmental and engineering solutions.
+
+---
+
+## 🌍 **Languages**
+
+- Fluent in **English** and **Yoruba**
+- Intermediate in **French**
+
+---
+
+## 📂 **View Portfolio Projects**
+
+Explore my projects showcasing data analytics, engineering, and visualization expertise:
+
+- [Portfolio Projects](https://github.com/JesumboOludipe/PortfolioProjects)
+
+---
+
+## 📫 **Connect With Me**
+
+- [LinkedIn](https://linkedin.com/in/jesumbo-oludipe)  
+- [Email](mailto:oludipejesumboj@gmail.com)  
+- [CV](https://drive.google.com/file/d/1SKc5Ug2jjlOU-byNBj5oX75r_f5Buh6m/view?usp=drivesdk)
+---
+
+Thanks for visiting my profile! I'm always open to collaborations and discussions. Feel free to reach out if you share similar interests or need support with data-related projects!
