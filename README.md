@@ -68,7 +68,7 @@ Explore my projects showcasing data analytics, engineering, and visualization ex
 
 ## 📫 **Connect With Me**
 
-- [LinkedIn](https://linkedin.com/in/jesumbo-oludipe)  
+- [LinkedIn](https://linkedin.com/in/jesumbooludipe)  
 - [Email](mailto:oludipejesumboj@gmail.com)  
 - [CV](https://drive.google.com/file/d/1SKc5Ug2jjlOU-byNBj5oX75r_f5Buh6m/view?usp=drivesdk)
 ---
