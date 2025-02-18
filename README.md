@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jesumbo Oludipe
 
-Welcome to my GitHub profile! I am a passionate **Data Analyst** and **Business Intelligence Developer** with over 5 years of professional experience. My journey combines analytical expertise, engineering ingenuity, and a drive to leverage data for impactful business decisions. Here's a little more about me:
+Welcome to my GitHub profile! I am a passionate **Data Analyst** and **Business Intelligence Developer** with over 6 years of professional experience. My journey combines analytical expertise, engineering ingenuity, and a drive to leverage data for impactful business decisions. Here's a little more about me:
 
 ---
 
