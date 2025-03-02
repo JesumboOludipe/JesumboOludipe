@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I am a passionate **Data Analyst** and **Business 
 
 ---
 
-## 💼 **Key Highlights of My Work**
+## 💼 **Key Highlights**
 
 ### 🎯 **Data Analytics and Reporting:**
 - Designed and delivered advanced dashboards and reports for large datasets, uncovering insights that inform strategic decisions across environmental, customer, and operational metrics. 
