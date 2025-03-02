@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I am a passionate **Data Analyst** and **Business 
 
 ## 🌟 **About Me**
 
-- 🌍 **Location:** United Kingdom 🇬🇧
 - 🎓 **Educational Background:**
   - **B.Sc.** in Agricultural Engineering  
   - **Master's Degree** in Environmental Engineering  
@@ -19,6 +18,7 @@ Welcome to my GitHub profile! I am a passionate **Data Analyst** and **Business 
 
 - **Certifications:**  
   - [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/JesumboOludipe-1563/243DA87BBF0D7C68?sharingId=D43BB297FE7C2808)
+  - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/JesumboOludipe-9899/EE6506DEE1162DA?sharingId=C7777CDF805B83EF)
   - [Azure Databricks and Spark for Data Engineers](https://drive.google.com/file/d/1_K5pW3x2k2cDfV-rX4s0p_N8SrAOaTiO/view?usp=sharing)
   - [Azure Data Factory for Data Engineers](https://drive.google.com/file/d/1CPSHX1Ew8k9Z7q8FQNV5sLYucUzYeoQG/view?usp=sharing)
 
