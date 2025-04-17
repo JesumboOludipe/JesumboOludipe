@@ -1,6 +1,14 @@
-# 👋 Hi, I'm Jesumbo Oludipe
+# 👋 Hello there, I'm Jesumbo Oludipe
+---
 
-Welcome to my GitHub profile! I am a passionate **Data Analyst** and **Business Intelligence Developer** with over 6 years of professional experience. My journey combines analytical expertise, engineering ingenuity, and a drive to leverage data for impactful business decisions. Here's a little more about me:
+[![🌐 Portfolio Website](https://img.shields.io/badge/-jesumbooludipe.com-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://jesumbooludipe.github.io/)
+[![💼 LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesumbooludipe/)
+[![📧 Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oludipejesumboj@gmail.com)
+[![📂 Portfolio Projects](https://img.shields.io/badge/-Portfolio_Projects-1ca0f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JesumboOludipe/PortfolioProjects)
+[![📄 View My CV](https://img.shields.io/badge/-View_My_CV-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1SKc5Ug2jjlOU-byNBj5oX75r_f5Buh6m/view?usp=drivesdk)
+
+
+I am a passionate **Data Analyst** and **Business Intelligence Developer** with **over 6 years** of professional experience. My journey combines analytical expertise, engineering ingenuity, and a drive to leverage data for impactful business decisions. Here's a little more about me:
 
 ---
 
@@ -58,19 +66,27 @@ Welcome to my GitHub profile! I am a passionate **Data Analyst** and **Business 
 
 ---
 
-## 📂 **View Portfolio Projects**
+## 💡 Technologies
 
-Explore my projects showcasing data analytics, engineering, and visualization expertise:
+### Programming Languages & Scripting
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-- [Portfolio Projects](https://github.com/JesumboOludipe/PortfolioProjects)
+### Cloud Data Engineering & DevOps
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0062AD?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-E67200?style=for-the-badge&logo=databricks&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Data & BI Tools
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
 
 ---
-
-## 📫 **Connect With Me**
-
-- [LinkedIn](https://linkedin.com/in/jesumbooludipe)  
-- [Email](mailto:oludipejesumboj@gmail.com)  
-- [CV](https://drive.google.com/file/d/1SKc5Ug2jjlOU-byNBj5oX75r_f5Buh6m/view?usp=drivesdk)
----
+| <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jesumbooludipe&show_icons=true&include_all_commits=true&hide_border=true" alt="Abiodun's GitHub stats" /> | <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jesumbooludipe&langs_count=8&layout=compact&hide_border=true" alt="Abiodun's GitHub stats" /> |
 
 Thanks for visiting my profile! I'm always open to collaborations and discussions. Feel free to reach out if you share similar interests or need support with data-related projects!
