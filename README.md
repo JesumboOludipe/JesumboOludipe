@@ -8,7 +8,7 @@
 [![📄 View My CV](https://img.shields.io/badge/-View_My_CV-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1SKc5Ug2jjlOU-byNBj5oX75r_f5Buh6m/view?usp=drivesdk)
 
 
-I am a passionate **Data Analyst** and **Business Intelligence Developer** with **over 6 years** of professional experience. My journey combines analytical expertise, engineering ingenuity, and a drive to leverage data for impactful business decisions. Here's a little more about me:
+I am a passionate **Data Analyst** and **Business Intelligence Developer** with **over 7 years** of professional experience. My journey combines analytical expertise, engineering ingenuity, and a drive to leverage data for impactful business decisions. Here's a little more about me:
 
 ---
 
